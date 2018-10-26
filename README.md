@@ -1,4 +1,4 @@
-# Find-the-Murderer-Game
+# Guess-the-Murderer-Game
 A game implemented in prolog
                                             USER MANUAL
 1.	Please type ”game.” To display information about the game and the available options in the menu. 
