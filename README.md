@@ -1,6 +1,8 @@
 # Guess-the-Murderer-Game
 A game implemented in prolog
-                                            USER MANUAL
+                                         
+                                         
+                                         USER MANUAL
 1.	Please type ”game.” To display information about the game and the available options in the menu. 
 After you’ve given the input you’ll be displayed with 6 options along with instructions in the menu.
 
